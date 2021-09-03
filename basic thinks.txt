@@ -1,0 +1,19 @@
+udemy course
+
+->inline element
+spans(<span>)
+images(<img>)
+anchors(<a>)
+
+->diplay : hidden;
+(it stays hidden but its position is still there and all the elements move around it)
+
+->display:none;
+(its like it was never there)
+
+-> text-align : center;
+(will align everything which doesnt have a width sepicified to it. for that we can use margin for centering element)
+
+
+
+
